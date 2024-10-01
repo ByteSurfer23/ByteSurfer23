@@ -1,6 +1,6 @@
 Goals for 2024: 
-1. September : Complete FullStack Development
-2. September : Complete GeoFarad Project
+1. October : Complete FullStack Development
+2. October : Complete GeoFarad Project
 3. October : Work on FullStack Development
 4. October : Find another Internship or Project to work on 
 5. November : Complete FinMitr Internship 
