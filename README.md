@@ -1,7 +1,7 @@
-Goals for 2025: 
-1. February : Complete EazyBytes Internship
-2. February : Complete Project Green
-3. February : Complete ML syllabus from TechBairn
+April : 
+Complete Project Green 
+Confirm Summer Internship 
+Study well for FATS
 <!--
 **ByteSurfer23/ByteSurfer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
