@@ -1,6 +1,6 @@
 April :
 
-1. Complete Project Green 
+1. Deploy Project Green 
 2. Confirm Summer Internship 
 3. Study well for FATS
 <!--
