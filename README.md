@@ -1,4 +1,4 @@
-April :
+April -
 
 1. Confirm Summer Internship 
 2. Study well for FATS
